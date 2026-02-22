@@ -62,6 +62,16 @@ const henrique = {
 };
 ```
 
+### 📊 Nível nas stacks
+
+| Área     | Nível        |
+|----------|--------------|
+| Backend  | ████████░░ 80% |
+| Frontend | ███████░░░ 70% |
+| Mobile   | ███████░░░ 70% |
+| DevOps   | █████░░░░░ 50% |
+
+
 </td>
 <td width="45%" valign="top">
 
