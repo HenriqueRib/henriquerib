@@ -44,23 +44,9 @@ Defensor fervoroso de **Clean Code**, **SOLID** e **TDD**.
 
 ### 📊 GitHub Dashboard
 
-<!-- Stats Cards (Stacked for safety and mobile compatibility) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquerib&show_icons=true&theme=radical&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerib&layout=compact&langs_count=6&theme=radical&hide_border=true&title_color=8b5cf6" alt="Top Langs" height="180px" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquerib&theme=radical&hide_border=true&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6" alt="Streak" />
 </p>
-
-<br/>
-
----
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=henriquerib&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies" width="100%" />
 
 <br/>
 
